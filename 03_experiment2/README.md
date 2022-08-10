@@ -12,15 +12,15 @@
 ### dataフォルダ<a name="data"></a>について[[一覧へ戻る](#content)]
 
 MRPCの場合  
-sample_MRPC_right_easy ... 正解したデータの名詞1単語のみを変更した。
-sample_MRPC_right__hard ... 正解データのeasyで変更した以外の部分を変更した。
-sample_MRPC_wrong_easy ... 不正解したデータの名詞1単語のみを変更した。
-sample_MRPC_wrong_hard ... 不正解データのeasyで変更した以外の部分を変更した。
+sample_MRPC_right_easy ... 正解したデータの名詞1単語のみを変更した。  
+sample_MRPC_right__hard ... 正解データのeasyで変更した以外の部分を変更した。  
+sample_MRPC_wrong_easy ... 不正解したデータの名詞1単語のみを変更した。  
+sample_MRPC_wrong_hard ... 不正解データのeasyで変更した以外の部分を変更した。  
 
 ## 使い方<a name="howtouse"></a>[](#howtouse)
 
-1 pythonコードのopenの中身を実行したいtsvファイルに変更してください。
-2 ターミナルで
+1 pythonコードのopenの中身を実行したいtsvファイルに変更してください。  
+2 ターミナルで  
 python Evaluate_Sample/Evaluate_MRPC.py と実行してください。(MRPCの場合)
 
 - [注意点](#remarks)
