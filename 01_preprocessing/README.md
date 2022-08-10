@@ -8,5 +8,5 @@ https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.gl
 
 ## 概要
 trainが学習用データ、devが開発用データ、testがテスト用データとなっています。
-実験に使う際はdevを使用して下さい。
+実験にEvaluateの際はdevを使用して下さい。
 
