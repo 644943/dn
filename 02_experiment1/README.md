@@ -9,7 +9,6 @@
 ## 内容物<a name="content"></a>[](#content)
 
 - [dataフォルダ](#data)
--
 ### dataフォルダ<a name="data"></a>について[[一覧へ戻る](#content)]
 sample_common_right_answer ... 正解したデータの選択肢の部分を変更した。
 sample_common_right_question ... 正解したデータの質問の部分を変更した。
