@@ -7,8 +7,3 @@
 trainが学習用データ、devが開発用データ、testがテスト用データとなっています。
 実験に使う際はdevを使用して下さい。
 
-## 内容物<a name="content"></a>[](#content)
-- [dataフォルダ](#data)
-
-### dataフォルダ<a name="data"></a>について[[一覧へ戻る](#content)]
-GLUE,CommonsenseQAの学習、開発、テストデータがフォルダごとに入っています。
