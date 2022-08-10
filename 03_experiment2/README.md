@@ -12,7 +12,7 @@
 -
 ### dataフォルダ<a name="data"></a>について[[一覧へ戻る](#content)]
 
-MRPCの場合
+MRPCの場合  
 sample_MRPC_right_easy ... 正解したデータの名詞1単語のみを変更した。
 sample_MRPC_right__hard ... 正解データのeasyで変更した以外の部分を変更した。
 sample_MRPC_wrong_easy ... 不正解したデータの名詞1単語のみを変更した。
