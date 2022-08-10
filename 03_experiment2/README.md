@@ -4,7 +4,11 @@
 
 ## 概要
 事前準備でGLUEのデータを正解と不正解のデータに分けた後、各データの傾向を元に25件ずつ抽出します。
-各25件をルールに従って変更したものがdataの中に入っています。
+各25件をルールに従って変更したものがdataの中に入っています。  
+下記のURLのEvaluateで再び評価  
+
+(参照URL)  
+https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.glue.md
 
 ## 内容物<a name="content"></a>[](#content)
 
