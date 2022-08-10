@@ -21,8 +21,8 @@ sample_common_wrong_question ... 不正解したデータの質問の部分を�
 
 ## 使い方<a name="howtouse"></a>[](#howtouse)
 
-1 pythonコードのopenの中身を実行したいjsonlファイルに変更してください。
-2 ターミナルで
+1 pythonコードのopenの中身を実行したいjsonlファイルに変更してください。  
+2 ターミナルで  
 python Evaluate_Sample/Evaluate_Commonsense.py と実行してください。
 
 - [注意点](#remarks)
