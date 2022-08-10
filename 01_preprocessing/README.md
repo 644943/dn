@@ -4,6 +4,7 @@
 このデータを下記URLのEvaluateで正解したデータと不正解したデータに分ける。  
 (参照URL)  
 https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/commonsense_qa/README.md
+https://github.com/facebookresearch/fairseq/blob/main/examples/roberta/README.glue.md
 
 ## 概要
 trainが学習用データ、devが開発用データ、testがテスト用データとなっています。
